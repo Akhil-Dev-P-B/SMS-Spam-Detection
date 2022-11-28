@@ -160,7 +160,7 @@ Project Link: [https://github.com/Akhil-Dev-P-B/SMS-Spam-Detection](https://gith
 
 * This project was a part of internship with [`SmartInternz`](https://smartinternz.com/) program, powered by IBM.
 * The models was trained locally and also on IBM Watson studio.
-* This project was a part of my Post Gradudate program in Union Christian Colege, Aluva.
+* This project was a part of my Post Gradudate program in Union Christian College, Aluva.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
